@@ -1,13 +1,11 @@
 ---
 title: "Explainable k-means: Don’t be greedy, Plant bigger trees!"
 collection: publications
-permalink: /publication/2022-Explainable-kmeans-Plant-Bigger-Trees
+permalink: /publication/Explainable k-means: Don’t be greedy, Plant bigger trees!
+venue: 'STOC &apos;22'
 paperurl: 'https://arxiv.org/abs/2111.03193'
+authors: 'Konstantin Makarychev, Liren Shan'
 ---
-
-Konstantin Makarychev, Liren Shan
-
-STOC' 2020
 
 <!-- citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 --- -->
