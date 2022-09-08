@@ -13,7 +13,7 @@ name                     : &name "Liren Shan"
 description              : &description "PhD student in Computer Science Department at Northwestern University"
 url                      : https://lirenshan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "arcticfoxsimon/lirenshan.github.io"
+repository               : "lirenshan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
