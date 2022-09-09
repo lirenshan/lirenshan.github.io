@@ -14,6 +14,33 @@ Education
 * B.S. in Mathematics and Applied Mathematics, Fudan University, 2013-2018
 * Ph.D in Computer Science, Northwestern University, 2018-2023 (expected)
 
+Talks
+======
+* Explainable k-means: Don’t be greedy, Plant bigger trees!, University of Science and Technology of China, May 26, 2022 
+* Explainable k-means: Don’t be greedy, Plant bigger trees!, IDEAL Workshop on Clustering at Northwestern University, Apr 23, 2022
+* Near-optimal Algorithms for Explainable k-medians and k-means, Fudan University, Dec 18, 2021
+* Reducing the Spread of Infection in SIR Epidemic Models, Northwestern University, Dec 2, 2020 
+* Improved Guarantees for k-means++ and k-means++ Parallel, Yahoo Research, Nov 5, 2020  
+
+Academic Services
+======
+* Reviewer: ICML 2021/2022, NeurIPS 2021/2022, AAAI 2022, ICLR 2022, SODA 2023, TCS
+* Volunteer: STOC 2020, FOCS 2021
+
+Awards
+======
+* Terminal Year Fellowship, Northwestern University, McCormick School of Engineering, 2022
+* PhD Student Research Award, Northwestern University, Computer Science Department, 2022
+
+Intern
+======
+* Yahoo Research, 2022 Summer
+
+Teaching Experience
+======
+* Teaching Assistant: 
+  * Design and Analysis of Algorithms, Northwestern University, 2019/2020/2021 Winter & 2021 Fall
+
 <!-- Work experience
 ======
 * Summer 2015: Research Assistant
