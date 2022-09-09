@@ -1,7 +1,7 @@
 ---
 title: "Explainable k-means: Don’t be greedy, Plant bigger trees!"
 collection: publications
-permalink: /publication/Explainable k-means: Don’t be greedy, Plant bigger trees!
+permalink: /publication/Explainable k-means Dont be greedy Plant bigger trees
 venue: 'STOC &apos;22'
 paperurl: 'https://arxiv.org/abs/2111.03193'
 authors: 'Konstantin Makarychev, Liren Shan'
