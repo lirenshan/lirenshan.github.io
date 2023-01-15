@@ -16,6 +16,8 @@ Education
 
 Talks
 ======
+* Higher-Order Cheeger Inequality for Partitioning with Buffers, Theory Seminar at University of Michigan, Jan 6, 2023
+* Higher-Order Cheeger Inequality for Partitioning with Buffers, Chicago Junior Theorists Workshop, Jan 5, 2023
 * Explainable k-means: Don’t be greedy, Plant bigger trees!, University of Science and Technology of China, May 26, 2022 
 * Explainable k-means: Don’t be greedy, Plant bigger trees!, IDEAL Workshop on Clustering at Northwestern University, Apr 23, 2022
 * Near-optimal Algorithms for Explainable k-medians and k-means, Fudan University, Dec 18, 2021
@@ -24,7 +26,7 @@ Talks
 
 Academic Services
 ======
-* Reviewer: ICML 2021/2022, NeurIPS 2021/2022, AAAI 2022, ICLR 2022, SODA 2023, TCS
+* Reviewer: ICML 2021/2022, NeurIPS 2021/2022, AAAI 2022/2023, ICLR 2022/2023, SODA 2023, TCS
 * Volunteer: STOC 2020, FOCS 2021
 
 Awards
