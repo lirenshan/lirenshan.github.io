@@ -15,8 +15,8 @@ Employment
 
 Education
 ======
-* B.S. in Mathematics and Applied Mathematics, Fudan University, 2013-2018
 * Ph.D in Computer Science, Northwestern University, 2018-2023
+* B.S. in Mathematics and Applied Mathematics, Fudan University, 2013-2018
 
 Talks
 ======
