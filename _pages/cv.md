@@ -9,13 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+Employment
+======
+* Research Assistant Professor, Toyota Technological Institute at Chicago, 2023-present
+
 Education
 ======
 * B.S. in Mathematics and Applied Mathematics, Fudan University, 2013-2018
-* Ph.D in Computer Science, Northwestern University, 2018-2023 (expected)
+* Ph.D in Computer Science, Northwestern University, 2018-2023
 
 Talks
 ======
+* Explainable k-means. Don't be greedy, plant bigger trees!, SoCG Workshop on Recent Developments in Geometric Clustering, June 13, 2023
+* Explainable k-means. Don't be greedy, plant bigger trees!, IDEAL Workshop on Machine Learning, Interpretability, and Logic, Apr 14, 2023
 * Higher-Order Cheeger Inequality for Partitioning with Buffers, Theory Seminar at University of Michigan, Jan 6, 2023
 * Higher-Order Cheeger Inequality for Partitioning with Buffers, Chicago Junior Theorists Workshop, Jan 5, 2023
 * Explainable k-means: Don’t be greedy, Plant bigger trees!, University of Science and Technology of China, May 26, 2022 
@@ -26,7 +32,7 @@ Talks
 
 Academic Services
 ======
-* Reviewer: ICML 2021/2022, NeurIPS 2021/2022, AAAI 2022/2023, ICLR 2022/2023, SODA 2023, TCS
+* Reviewer: ICML 2021/2022/2023, NeurIPS 2021/2022/2023, AAAI 2022/2023/2024, ICLR 2022/2023, SODA 2023/2024, FOCS 2023, ICALP 2023, JAIR, TCS
 * Volunteer: STOC 2020, FOCS 2021
 
 Awards
