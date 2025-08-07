@@ -5,4 +5,8 @@ permalink: /publication/Improved Guarantees for k-means++ and k-means++ Parallel
 venue: 'NeurIPS &apos;20'
 paperurl: 'https://arxiv.org/abs/2010.14487'
 authors: 'Konstantin Makarychev, Aravind Reddy, Liren Shan'
+label: "[C4]"
+talks:
+  - label: "3-minute talk"
+    url: "https://slideslive.com/38936377/improved-guarantees-for-kmeans-and-kmeans-parallel?ref=account-78593-history"
 ---
