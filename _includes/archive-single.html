@@ -60,9 +60,14 @@
       <p>Recommended citation: {{ post.citation }} </p>
     {% endif %}
 
-	{% if post.talkurl %}
-	  <p><a href="{{ post.talkurl }}">{{ post.talklabel | default: "Talk video" }}</a></p>
+	{% if post.talks %}
+	  <p>
+	    {% for talk in post.talks %}
+	      <a href="{{ talk.url }}">{{ talk.label }}</a>{% unless forloop.last %} | {% endunless %}
+	    {% endfor %}
+	  </p>
 	{% endif %}
+
 
 
   </article>
