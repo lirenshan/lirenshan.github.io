@@ -59,7 +59,11 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% endif %}
-    
+
+	{% if post.talkurl %}
+	  <p><a href="{{ post.talkurl }}">{{ post.talklabel | default: "Talk video" }}</a></p>
+	{% endif %}
+
 
   </article>
 </div>
