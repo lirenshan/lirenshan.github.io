@@ -5,6 +5,7 @@ permalink: /publication/Near-optimal Algorithms for Explainable k-medians and k-
 venue: 'ICML &apos;21'
 paperurl: 'https://arxiv.org/abs/2107.00798'
 authors: 'Konstantin Makarychev, Liren Shan'
-talkurl: 'https://slideslive.com/38959043/nearoptimal-algorithms-for-explainable-kmedians-and-kmeans'
-talklabel: '5-minute talk'
+talks:
+  - label: "5-minute talk"
+    url: "https://slideslive.com/38959043/nearoptimal-algorithms-for-explainable-kmedians-and-kmeans"
 ---
