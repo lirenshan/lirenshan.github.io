@@ -5,7 +5,7 @@ permalink: /publication/Random Cuts are Optimal for Explainable k-Medians
 venue: 'Neurips &apos;23 (Oral)'
 paperurl: 'https://arxiv.org/abs/2304.09113'
 authors: 'Konstantin Makarychev, Liren Shan'
-label: "C[11]"
+label: "[C11]"
 talks:
   - label: "5-minute talk"
     url: "https://slideslive.com/39008934/random-cuts-are-optimal-for-explainable-kmedians?ref=speaker-43613"
