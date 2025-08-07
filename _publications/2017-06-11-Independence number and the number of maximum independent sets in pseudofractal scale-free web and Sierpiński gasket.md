@@ -5,4 +5,5 @@ permalink: /publication/Independence number and the number of maximum independen
 venue: 'Theoretical Computer Science'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0304397518301191'
 authors: 'Liren Shan, Huan Li, Zhongzhi Zhang'
+label: "[C2]"
 ---
