@@ -5,4 +5,12 @@ permalink: /publication/Optimization of Scoring Rules
 venue: 'EC &apos;22 (Best Poster EC 20)'
 paperurl: 'https://arxiv.org/abs/2007.02905'
 authors: 'Yingkai Li, Jason D. Hartline, Liren Shan, Yifan Wu'
+label: "[C7]"
+talks:
+  - label: "1-minute talk"
+    url: "https://www.youtube.com/watch?v=DdutJtMr9jc"
+  - label: "20-minute talk"
+    url: "https://www.youtube.com/watch?v=DLmOxCyAjHs"
+  - label: "50-minute talk"
+    url: "https://www.youtube.com/watch?v=J2FeZdwE8_U"
 ---
