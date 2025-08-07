@@ -5,4 +5,5 @@ permalink: /publication/Improving information centrality of a node in complex ne
 venue: 'IJCAI &apos;18'
 paperurl: 'https://www.ijcai.org/proceedings/2018/491'
 authors: 'Liren Shan, Yuhao Yi, Zhongzhi Zhang'
+label: "[C1]"
 ---
