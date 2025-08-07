@@ -5,4 +5,10 @@ permalink: /publication/Higher-Order Cheeger Inequality for Partitioning with Bu
 venue: 'SODA &apos;24'
 paperurl: 'https://arxiv.org/abs/2308.10160'
 authors: 'Konstantin Makarychev, Yury Makarychev, Liren Shan, Aravindan Vijayaraghavan'
+label: "C[12]"
+talks:
+  - label: "20-minute talk"
+    url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=791dcb94-0043-4ea0-8506-af860129fcde"
+  - label: "1-hour talk"
+    url: "https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec243af6-1ad5-4610-bc35-af1901007029"
 ---
