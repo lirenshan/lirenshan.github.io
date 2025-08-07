@@ -5,5 +5,5 @@ permalink: /publication/Robustness of First- and Second-Order Consensus Algorith
 venue: 'IEEE Transactions on Control System Technology'
 paperurl: 'https://ieeexplore.ieee.org/document/7466120/'
 authors: 'Yuhao Yi, Zhongzhi Zhang, Liren Shan, Guanrong Chen'
-label: "[C3]"
+label: "[J3]"
 ---
