@@ -17,7 +17,7 @@ Research Interest
 I have broad interests in various aspects of theoretical computer science, mathematics, machine learning, and artificial intelligence. My research spans approximation algorithms, learning theory, graph theory, and algorithmic game theory, with the overarching goal of designing algorithms for data analysis and decision-making in real-world applications. Currently, I focus on clustering and graph partitioning problems, as well as developing methods in machine learning, including conformal prediction, to provide reliable and interpretable solutions.
 
 <p style="color:#b91c1c; font-weight:600;">
-I am on the academic job market for 2025–2026.
+I am on the job market for 2025–2026.
 </p>
 
 
