@@ -2,7 +2,8 @@
 title: "Heterogeneous Multi-agent Multi-armed Bandits on Stochastic Block Models"
 collection: publications
 permalink: /publication/Heterogeneous Multi-agent Multi-armed Bandits on Stochastic Block Models
-venue: 'Manuscript'
+venue: 'SIGMETRICS &apos;26'
 paperurl: 'https://arxiv.org/abs/2502.08003'
 authors: 'Mengfan Xu, Liren Shan, Fatemeh Ghaffari, Xuchuang Wang, Xutong Liu, Mohammad Hajiesmaili'
+label: "[C19]"
 ---
