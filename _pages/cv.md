@@ -20,6 +20,8 @@ Education
 
 Talks
 ======
+* Computing Small Volume Confidence Set for Arbitrary Distributions, Theory Seminar at Purdue University, 2025
+* Error Tolerant E-Discovery Protocol, Illinois Institute of Technology, 2024
 * Random Cuts are Optimal for Explainable k-Medians, EnCORE Old Questions and New Directions in Theory of Clustering workshop, 2024
 * Explainable k-means. Don't be greedy, plant bigger trees!, SoCG Workshop on Recent Developments in Geometric Clustering, June 13, 2023
 * Explainable k-means. Don't be greedy, plant bigger trees!, IDEAL Workshop on Machine Learning, Interpretability, and Logic, Apr 14, 2023
@@ -33,18 +35,19 @@ Talks
 
 Academic Services
 ======
-* Reviewer: ICML 2021/2022/2023/2024, NeurIPS 2021/2022/2023/2024, AAAI 2022/2023/2024, ICLR 2022/2023, SODA 2023/2024, FOCS 2023, ICALP 2023, JAIR, TCS
+* Reviewer: ICML 2021/2022/2023/2024/2025, NeurIPS 2021/2022/2023/2024/2025, AAAI 2022/2023/2024/2025/2026, ICLR 2022/2023/2024/2025, SODA 2023/2024, FOCS 2023, ICALP 2023, JAIR, TCS
 * Volunteer: STOC 2020, FOCS 2021
 
 Awards
 ======
+* Top Reviewer, Neurips 2025
 * Outstanding Reviewer, ICLR 2024
 * Terminal Year Fellowship, Northwestern University, McCormick School of Engineering, 2022
 * PhD Student Research Award, Northwestern University, Computer Science Department, 2022
 
 Intern
 ======
-* Yahoo Research, 2022 Summer
+* Yahoo Research (work with Balazs Szorenyi and Mohammad Mahdi Khalili), 2022 Summer
 
 Teaching Experience
 ======
