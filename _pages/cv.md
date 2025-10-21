@@ -25,8 +25,8 @@ Talks
   Theory Seminar, Purdue University, Oct 9, 2025  
 
 * **Error Tolerant E-Discovery Protocol**
-  IDEAL talk series, April 12, 2024
-  Illinois Institute of Technology, Feb 29, 2024  
+  - IDEAL talk series, April 12, 2024
+  - Illinois Institute of Technology, Feb 29, 2024  
 
 * **Random Cuts are Optimal for Explainable k-Medians**  
   EnCORE Workshop on *Old Questions and New Directions in Theory of Clustering*, 2024  
