@@ -22,8 +22,11 @@ Education
 Talks
 ======
 * **Computing Small Volume Confidence Set for Arbitrary Distributions**
-  - CS Theory Seminar, University of Wisconcin-Madison, Nov 5
-  - CS Theory Seminar, Purdue University, Oct 9, 2025  
+  - CS Theory Seminar, University of Wisconsin-Madison, Nov 5, 2025
+  - CS Theory Seminar, Purdue University, Oct 9, 2025
+* **Volume Optimality in Conformal Prediction with Structured Prediction Sets**
+  - Open SkAI conference, Sep 4, 2025
+  - TRIPODS Workshop, Dec 7, 2024
 
 * **Error Tolerant E-Discovery Protocol**
   - IDEAL talk series, April 12, 2024
@@ -39,7 +42,7 @@ Talks
   - IDEAL Workshop on *Clustering*, Northwestern University, Apr 23, 2022  
 
 * **Higher-Order Cheeger Inequality for Partitioning with Buffers**  
-  - Theory Seminar, University of Michigan, Jan 6, 2023  
+  - CS Theory Seminar, University of Michigan, Jan 6, 2023  
   - Chicago Junior Theorists Workshop, Jan 5, 2023  
 
 * **Near-Optimal Algorithms for Explainable k-Medians and k-Means**  
