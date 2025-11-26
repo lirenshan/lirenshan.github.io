@@ -22,6 +22,8 @@ Education
 Talks
 ======
 * **Computing Small Volume Confidence Set for Arbitrary Distributions**
+  - CS Colloquium, UC Davis, Nov 20, 2025
+  - CS Theory Seminar, UC Santa Cruz, Nov 18, 2025
   - CS Theory Seminar, University of Wisconsin-Madison, Nov 5, 2025
   - CS Theory Seminar, Purdue University, Oct 9, 2025
 * **Volume Optimality in Conformal Prediction with Structured Prediction Sets**
@@ -56,7 +58,7 @@ Talks
 
 Academic Services
 ======
-* Reviewer: ICML 2021/2022/2023/2024/2025, NeurIPS 2021/2022/2023/2024/2025, AAAI 2022/2023/2024/2025/2026, ICLR 2022/2023/2024/2025, SODA 2023/2024, FOCS 2023, ICALP 2023, JAIR, TCS
+* Reviewer: ICML 2021/2022/2023/2024/2025, NeurIPS 2021/2022/2023/2024/2025, AAAI 2022/2023/2024/2025/2026, ICLR 2022/2023/2024/2025, SODA 2023/2024/2025/2026, FOCS 2023, ICALP 2023, JACM, SICOMP, TCS, JAIR
 * Volunteer: STOC 2020, FOCS 2021
 * Organizer:
   - IDEAL workshop on *Uncertainty Quantification in Data Science*, Northwestern University (co-organized with Chao Gao)
