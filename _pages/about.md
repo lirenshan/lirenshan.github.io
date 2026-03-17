@@ -14,7 +14,7 @@ I am now a research assistant professor at Toyota Technological Institute at Chi
 
 Research Interest
 ======
-I have broad interests in various aspects of theoretical computer science, mathematics, machine learning, and artificial intelligence. My research spans approximation algorithms, learning theory, graph theory, and algorithmic game theory, with the goal of designing algorithms for data analysis and decision-making in real-world applications. Currently, I focus on clustering, graph partitioning, and uncertainty quantification, aiming to develop efficient, reliable, and interpretable machine learning algorithms.
+I have broad interests in various aspects of theoretical computer science, mathematics, machine learning, and artificial intelligence. My research spans approximation algorithms, machine learning, graph algorithms, and algorithmic game theory, with the goal of designing algorithms for data analysis and decision-making in real-world applications. My current research focuses on developing efficient, reliable, and interpretable machine learning algorithms for data analysis and decision-making, particularly in high-stakes settings. I pursue this goal through work on interpretable learning, uncertainty quantification, and algorithmic methods for legal applications.
 
 <p style="color:#b91c1c; font-weight:600;">
 I am on the job market for 2025–2026.
