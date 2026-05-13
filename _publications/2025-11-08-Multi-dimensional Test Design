@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/Multi-dimensional Test Design
 venue: 'AAAI &apos;26'
 paperurl: 'https://arxiv.org/abs/2502.12264'
-authors: 'Xiaoyun Qiu, Liren Shan'
-label: '[C20]'
+authors: '<a href="https://sites.google.com/view/xiaoyunqiu/home">Xiaoyun Qiu</a>, Liren Shan'
+# label: '[C20]'
 ---
