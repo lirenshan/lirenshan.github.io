@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/Error-Tolerant E-Discovery Protocol
 venue: 'CSLaw &apos;24'
 paperurl: 'https://arxiv.org/abs/2401.17952'
-authors: 'Jinshuo Dong, Jason D. Hartline, Liren Shan, Aravindan Vijayaraghavan'
-label: "[C13]"
+authors: '<a href="https://www2.math.upenn.edu/~jinshuo/">Jinshuo Dong</a>, <a href="https://sites.northwestern.edu/hartline/">Jason D. Hartline</a>, Liren Shan, <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>'
+# label: "[C13]"
 ---
