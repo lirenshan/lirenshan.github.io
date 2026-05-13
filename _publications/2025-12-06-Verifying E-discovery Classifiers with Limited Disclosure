@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/Verifying E-discovery Classifiers with Limited Disclosure
 venue: 'CSLaw &apos;26'
 paperurl: 'https://arxiv.org/abs/2502.16352'
-authors: 'Siddharth Bhandari, Liren Shan'
-label: "[C21]"
+authors: '<a href="https://sites.google.com/view/siddharth-bhandari/">Siddharth Bhandari</a>, Liren Shan'
+# label: "[C21]"
 talks:
   - label: "50-minute talk"
     url: "https://www.youtube.com/watch?v=_7dCB5RvO5U"
