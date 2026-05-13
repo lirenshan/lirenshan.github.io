@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/Computing High-dimensional Confidence Sets for Arbitrary Distributions
 venue: 'COLT &apos;25'
 paperurl: 'https://arxiv.org/abs/2504.02723'
-authors: 'Chao Gao, Liren Shan, Vaidehi Srinivas, Aravindan Vijayaraghavan'
-label: "[C16]"
+authors: '<a href="https://www.stat.uchicago.edu/~chaogao/">Chao Gao</a>, Liren Shan, <a href="https://vaidehi8913.github.io/">Vaidehi Srinivas</a>, <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>'
+# label: "[C16]"
 talks:
   - label: "50-minute talk"
     url: "https://www.youtube.com/watch?v=-ELiyBzuLtQ"
