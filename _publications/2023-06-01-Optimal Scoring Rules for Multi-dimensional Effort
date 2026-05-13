@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/Optimal Scoring Rules for Multi-dimensional Effort
 venue: 'COLT &apos;23'
 paperurl: 'https://proceedings.mlr.press/v195/hartline23a.html'
-authors: 'Jason D. Hartline, Yingkai Li, Liren Shan, Yifan Wu'
-label: "[C9]"
+authors: '<a href="https://sites.northwestern.edu/hartline/">Jason D. Hartline</a>, <a href="https://yingkai-li.github.io/publications/">Yingkai Li</a>, Liren Shan, <a href="https://yifanwu.me/">Yifan Wu</a>'
+# label: "[C9]"
 talks:
   - label: "5-minute talk"
     url: "https://www.youtube.com/watch?v=bnssXPyjFPA"
