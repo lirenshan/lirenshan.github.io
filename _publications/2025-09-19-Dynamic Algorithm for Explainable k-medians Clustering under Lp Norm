@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/Dynamic Algorithm for Explainable k-medians Clustering under Lp Norm
 venue: 'NeurIPS &apos;25 (Spotlight)'
 paperurl: 'https://www.arxiv.org/abs/2512.01150'
-authors: 'Konstantin Makarychev, Ilias Papanikolaou, Liren Shan'
-label: "[C17]"
+authors: '<a href="https://konstantin.makarychev.net/">Konstantin Makarychev</a>, <a href="https://iliaspap.github.io/">Ilias Papanikolaou</a>, Liren Shan'
+# label: "[C17]"
 ---
