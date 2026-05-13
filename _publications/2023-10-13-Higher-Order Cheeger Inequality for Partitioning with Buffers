@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/Higher-Order Cheeger Inequality for Partitioning with Buffers
 venue: 'SODA &apos;24'
 paperurl: 'https://arxiv.org/abs/2308.10160'
-authors: 'Konstantin Makarychev, Yury Makarychev, Liren Shan, Aravindan Vijayaraghavan'
-label: "[C12]"
+authors: '<a href="https://konstantin.makarychev.net/">Konstantin Makarychev</a>, <a href="https://home.ttic.edu/~yury/">Yury Makarychev</a>, Liren Shan, <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>'
+# label: "[C12]"
 talks:
   - label: "20-minute talk"
     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=791dcb94-0043-4ea0-8506-af860129fcde"
