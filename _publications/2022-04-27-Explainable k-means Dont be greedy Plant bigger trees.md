@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/Explainable k-means Dont be greedy Plant bigger trees
 venue: 'STOC &apos;22'
 paperurl: 'https://arxiv.org/abs/2111.03193'
-authors: 'Konstantin Makarychev, Liren Shan'
-label: "[C6]"
+authors: '<a href="https://konstantin.makarychev.net/">Konstantin Makarychev</a>, Liren Shan'
+# label: "[C6]"
 talks:
   - label: "20-minute talk"
     url: "https://www.youtube.com/watch?v=sRq1P9241tQ"
