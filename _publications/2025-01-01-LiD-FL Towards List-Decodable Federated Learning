@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/LiD-FL Towards List-Decodable Federated Learning
 venue: 'AAAI &apos;25'
 paperurl: 'https://arxiv.org/abs/2408.04963'
-authors: 'Hong Liu, Liren Shan, Han Bao, Ronghui You, Yuhao Yi, Jiancheng Lv'
-label: "[C14]"
+authors: '<a href="https://scholar.google.com/citations?user=MYD2LfUAAAAJ&hl=en">Hong Liu</a>, Liren Shan, Han Bao, <a href="https://scholar.google.com/citations?hl=en&user=b0xZGRwAAAAJ">Ronghui You</a>, <a href="https://yhyi15.github.io/">Yuhao Yi</a>, <a href="https://scholar.google.com/citations?user=0TCaWKwAAAAJ&hl=en">Jiancheng Lv</a>'
+# label: "[C14]"
 ---
