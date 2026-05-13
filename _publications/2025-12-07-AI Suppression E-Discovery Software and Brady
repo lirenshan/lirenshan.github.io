@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/AI Suppression E-Discovery Software and Brady
 venue: 'CSLaw &apos;26'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6132546'
-authors: 'Jason D. Hartline, Liren Shan, Alec Sun, Rebecca Wexler'
-label: "[C22]"
+authors: '<a href="https://sites.northwestern.edu/hartline/">Jason D. Hartline</a>, Liren Shan, <a href="https://sites.google.com/view/alecsun/home">Alec Sun</a>, <a href="https://www.law.columbia.edu/faculty/rebecca-wexler">Rebecca Wexler</a>'
+# label: "[C22]"
 ---
