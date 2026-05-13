@@ -6,4 +6,7 @@ venue: 'NeurIPS &apos;25 (Spotlight)'
 paperurl: 'https://www.arxiv.org/abs/2512.01150'
 authors: '<a href="https://konstantin.makarychev.net/">Konstantin Makarychev</a>, <a href="https://iliaspap.github.io/">Ilias Papanikolaou</a>, Liren Shan'
 # label: "[C17]"
+talks:
+  - label: "5-minute talk"
+    url: "https://slideslive.com/39046918/dynamic-algorithm-for-explainable-kmedians-clustering-under-lp-norm"
 ---
