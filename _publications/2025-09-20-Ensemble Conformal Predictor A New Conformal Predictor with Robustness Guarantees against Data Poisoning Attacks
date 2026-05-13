@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/Ensemble Conformal Predictor A New Conformal Predictor with Robustness Guarantees against Data Poisoning Attacks
 venue: 'Security and Privacy (S&P) &apos;26'
 paperurl: 'https://lirenshan.github.io/publications/'
-authors: 'Yuxin Yang, Qiang Li, Runyang Feng, Liren Shan, Binghui Wang'
-label: "[C18]"
+authors: '<a href="https://scholar.google.com/citations?user=7EMBUqkAAAAJ&hl=en">Yuxin Yang</a>, <a href="https://scholar.google.com/citations?user=wDYOD8AAAAAJ&hl=en">Qiang Li</a>, <a href="https://scholar.google.com/citations?user=otk26T0AAAAJ&hl=en">Runyang Feng</a>, Liren Shan, <a href="https://wangbinghui.net/">Binghui Wang</a>'
+# label: "[C18]"
 ---
