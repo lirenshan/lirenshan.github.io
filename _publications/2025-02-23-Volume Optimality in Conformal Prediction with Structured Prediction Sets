@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/Volume Optimality in Conformal Prediction with Structured Prediction Sets
 venue: 'ICML &apos;25'
 paperurl: 'https://arxiv.org/abs/2502.16658'
-authors: 'Chao Gao, Liren Shan, Vaidehi Srinivas, Aravindan Vijayaraghavan'
-label: "[C15]"
+authors: '<a href="https://www.stat.uchicago.edu/~chaogao/">Chao Gao</a>, Liren Shan, <a href="https://vaidehi8913.github.io/">Vaidehi Srinivas</a>, <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>'
+# label: "[C15]"
 talks:
   - label: "50-minute talk"
     url: "https://www.youtube.com/watch?v=-ELiyBzuLtQ"
