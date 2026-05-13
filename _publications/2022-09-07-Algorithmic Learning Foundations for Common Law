@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/Algorithmic Learning Foundations for Common Law
 venue: 'CSLaw &apos;22'
 paperurl: 'https://arxiv.org/abs/2209.02866'
-authors: 'Jason D. Hartline, Daniel W. Linna Jr., Liren Shan, Alex Tang'
-label: "[C8]"
+authors: '<a href="https://sites.northwestern.edu/hartline/">Jason D. Hartline</a>, <a href="https://www.law.northwestern.edu/faculty/profiles/danielwlinna/">Daniel W. Linna Jr.</a>, Liren Shan, <a href="https://scholar.google.com/citations?user=6rmicdIAAAAJ&hl=en">Alex Tang</a>'
+# label: "[C8]"
 ---
