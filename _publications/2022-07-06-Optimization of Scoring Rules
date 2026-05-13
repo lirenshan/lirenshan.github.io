@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/Optimization of Scoring Rules
 venue: 'EC &apos;22 (Best Poster EC 20)'
 paperurl: 'https://arxiv.org/abs/2007.02905'
-authors: 'Yingkai Li, Jason D. Hartline, Liren Shan, Yifan Wu'
-label: "[C7]"
+authors: '<a href="https://yingkai-li.github.io/publications/">Yingkai Li</a>, <a href="https://sites.northwestern.edu/hartline/">Jason D. Hartline</a>, Liren Shan, <a href="https://yifanwu.me/">Yifan Wu</a>'
+# label: "[C7]"
 talks:
   - label: "1-minute talk"
     url: "https://www.youtube.com/watch?v=DdutJtMr9jc"
