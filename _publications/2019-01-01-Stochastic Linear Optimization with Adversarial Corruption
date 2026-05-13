@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/Stochastic Linear Optimization with Adversarial Corruption
 venue: 'Manuscript'
 paperurl: 'https://arxiv.org/abs/1909.02109'
-authors: 'Yingkai Li, Edmund Y. Lou, Liren Shan'
-label: "[M1]"
+authors: '<a href="https://yingkai-li.github.io/publications/">Yingkai Li</a>, <a href="https://climateteams.org/people/edmund-lou/">Edmund Y. Lou</a>, Liren Shan'
+# label: "[M1]"
 ---
