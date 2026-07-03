@@ -21,16 +21,23 @@ Education
 
 Talks
 ======
+* **Heterogeneous Multi-agent Multi-armed Bandits on Stochastic Block Models**  
+  IISE Conference Workshop on *Multi-Agent Learning*, Dallas, May 17, 2026
+
+* **Explainable Clustering: Interpretable and Reliable Learning**  
+  CS Colloquium, UT Dallas, Feb 24, 2026
+  
 * **Computing Small Volume Confidence Set for Arbitrary Distributions**
   - CS Colloquium, UC Davis, Nov 20, 2025
   - CS Theory Seminar, UC Santa Cruz, Nov 18, 2025
   - CS Theory Seminar, University of Wisconsin-Madison, Nov 5, 2025
   - CS Theory Seminar, Purdue University, Oct 9, 2025
+
 * **Volume Optimality in Conformal Prediction with Structured Prediction Sets**
   - Open SkAI conference, Sep 4, 2025
   - TRIPODS Workshop, Dec 7, 2024
 
-* **Error Tolerant E-Discovery Protocol**
+* **Error-Tolerant E-Discovery Protocol**
   - IDEAL talk series, April 12, 2024
   - Illinois Institute of Technology, Feb 29, 2024  
 
@@ -58,7 +65,7 @@ Talks
 
 Academic Services
 ======
-* Reviewer: ICML 2021/2022/2023/2024/2025, NeurIPS 2021/2022/2023/2024/2025, AAAI 2022/2023/2024/2025/2026, ICLR 2022/2023/2024/2025, SODA 2023/2024/2025/2026, FOCS 2023, ICALP 2023, JACM, SICOMP, TCS, JAIR
+* Reviewer: ICML 2021/2022/2023/2024/2025, NeurIPS 2021/2022/2023/2024/2025, AAAI 2022/2023/2024/2025/2026, ICLR 2022/2023/2024/2025, SODA 2023/2024/2025/2026, FOCS 2023/2026, ICALP 2023, ITCS 2026, JACM, SICOMP, TCS, JAIR
 * Volunteer: STOC 2020, FOCS 2021
 * Organizer:
   - IDEAL workshop on *Uncertainty Quantification in Data Science*, Northwestern University (co-organized with Chao Gao)
@@ -66,7 +73,7 @@ Academic Services
 
 Awards
 ======
-* Top Reviewer, Neurips 2025
+* Top Reviewer, NeurIPS 2025
 * Outstanding Reviewer, ICLR 2024
 * Terminal Year Fellowship, Northwestern University, McCormick School of Engineering, 2022
 * PhD Student Research Award, Northwestern University, Computer Science Department, 2022
