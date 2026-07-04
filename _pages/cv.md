@@ -65,7 +65,10 @@ Talks
 
 Academic Services
 ======
-* Reviewer: ICML 2021/2022/2023/2024/2025, NeurIPS 2021/2022/2023/2024/2025, AAAI 2022/2023/2024/2025/2026, ICLR 2022/2023/2024/2025, SODA 2023/2024/2025/2026, FOCS 2023/2026, ICALP 2023, ITCS 2026, JACM, SICOMP, TCS, JAIR
+* Program Committee: APPROX 2025
+* Conference Reviewer: ICML 2021/2022/2023/2024/2025, NeurIPS 2021/2022/2023/2024/2025, AAAI 2022/2023/2024/2025/2026, ICLR 2022/2023/2024/2025, COLT 2024/2025, ALT 2024, FAccT 2025
+* External Reviewer: STOC 2024/2025, FOCS 2023/2026, SODA 2023/2024/2025/2026, ICALP 2023/2024/2025, ITCS 2024/2026, SoCG 2025
+* Journal Reviewer: Journal of the ACM, SIAM Journal on Computing, Theoretical Computer Science, Information and Computation, Journal of Artificial Intelligence Research
 * Volunteer: STOC 2020, FOCS 2021
 * Organizer:
   - IDEAL workshop on *Uncertainty Quantification in Data Science*, Northwestern University (co-organized with Chao Gao)
@@ -86,6 +89,11 @@ Teaching Experience
 ======
 * Teaching Assistant: 
   * Design and Analysis of Algorithms, Northwestern University, 2019/2020/2021 Winter & 2021 Fall
+ 
+* Intern Host:
+  * Aditya Anand (co-host with Yury Makarychev and Santhoshini Velusamy)
+  * Xinyuan Cao (co-host with Yury Makarychev)
+  * Kiarash Banihashem (co-host with Santhoshini Velusamy)
 
 <!-- Work experience
 ======
