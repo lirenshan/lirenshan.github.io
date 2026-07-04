@@ -21,6 +21,9 @@ Education
 
 Talks
 ======
+* **Explainable Clustering: Interpretable and Reliable Learning**  
+  CS Colloquium, UT Dallas, Feb 24, 2026
+  
 * **Computing Small Volume Confidence Set for Arbitrary Distributions**
   - CS Colloquium, UC Davis, Nov 20, 2025
   - CS Theory Seminar, UC Santa Cruz, Nov 18, 2025
