@@ -21,6 +21,9 @@ Education
 
 Talks
 ======
+* **Heterogeneous Multi-agent Multi-armed Bandits on Stochastic Block Models**  
+  IISE Conference Workshop on *Multi Agent Learning*, Dallas, May 17, 2026
+
 * **Explainable Clustering: Interpretable and Reliable Learning**  
   CS Colloquium, UT Dallas, Feb 24, 2026
   
