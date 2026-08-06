@@ -19,10 +19,6 @@ Research Interest
 ======
 I have broad interests in various aspects of theoretical computer science, mathematics, machine learning, and artificial intelligence. My research spans approximation algorithms, machine learning, graph algorithms, and algorithmic game theory, with the goal of designing algorithms for data analysis and decision-making in real-world applications. My current research focuses on developing efficient, reliable, and interpretable machine learning algorithms for data analysis and decision-making, particularly in high-stakes settings. I pursue this goal through work on interpretable learning, uncertainty quantification, and algorithmic methods for legal applications.
 
-<p style="color:#b91c1c; font-weight:600;">
-I am on the job market for 2025–2026.
-</p>
-
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
