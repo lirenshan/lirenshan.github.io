@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a research assistant professor at the Toyota Technological Institute at Chicago (TTIC). I received my PhD in Computer Science at Northwestern University in 2023, advised by Prof. [Konstantin Makarychev](https://konstantin.makarychev.net/). Before that, I completed my undergrad in Mathematics and Applied Mathematics at Fudan University. 
+I am a research scientist at Google. I was a research assistant professor at the Toyota Technological Institute at Chicago (TTIC) from 2023 to 2026. I received my PhD in Computer Science at Northwestern University in 2023, advised by Prof. [Konstantin Makarychev](https://konstantin.makarychev.net/). Before that, I completed my undergrad in Mathematics and Applied Mathematics at Fudan University. 
 
 **[Download my CV](https://drive.google.com/file/d/1tVUgBVi16BMwJ_BQJmo4lUqb8im5UGXi/view?usp=sharing)**  
 **Email:** lirenshan&#64;ttic&#46;edu
