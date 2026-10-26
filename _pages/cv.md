@@ -11,11 +11,12 @@ redirect_from:
 
 Employment
 ======
-* Research Assistant Professor, Toyota Technological Institute at Chicago, 2023-present
+* Research Scientist, Google, 2026-Present
+* Research Assistant Professor, Toyota Technological Institute at Chicago, 2023-2026
 
 Education
 ======
-* Ph.D in Computer Science, Northwestern University, 2018-2023
+* Ph.D. in Computer Science, Northwestern University, 2018-2023
 * B.S. in Mathematics and Applied Mathematics, Fudan University, 2013-2018
 
 
@@ -65,6 +66,7 @@ Talks
 
 Academic Services
 ======
+* Area Chair: ICML 2027
 * Program Committee: APPROX 2025
 * Conference Reviewer: ICML 2021/2022/2023/2024/2025, NeurIPS 2021/2022/2023/2024/2025, AAAI 2022/2023/2024/2025/2026, ICLR 2022/2023/2024/2025, COLT 2024/2025, ALT 2024, FAccT 2025
 * External Reviewer: STOC 2024/2025, FOCS 2023/2026, SODA 2023/2024/2025/2026, ICALP 2023/2024/2025, ITCS 2024/2026, SoCG 2025
