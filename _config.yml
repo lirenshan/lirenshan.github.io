@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Liren Shan / (单立人)"
 title_separator          : "-"
 name                     : &name "Liren Shan"
-description              : &description "Research Assistant Professor at Toyota Technological Institute at Chicago"
+description              : &description "Research Scientist at Google"
 url                      : https://lirenshan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lirenshan.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Liren Shan"
   avatar           : "profile.png"
-  bio              : "Research Assistant Professor at Toyota Technological Institute at Chicago"
-  location         : "Chicago, Illinois, USA"
+  bio              : "Research Scientist at Google"
+  location         : "Mountain View, California, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3M4nr3MAAAAJ&hl=en"
-  email            : "lirenshan@ttic.edu"
+  email            : "lirenshan@google.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
